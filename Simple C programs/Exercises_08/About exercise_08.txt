@@ -1,0 +1,4 @@
+Exercise 08
+
+Write a C program to input the month number and output the month name using switch
+statement

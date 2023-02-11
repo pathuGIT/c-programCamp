@@ -1,0 +1,21 @@
+Exercise 07
+
+a. Write a C program that will help the driver of a truck that deliver and pickup compressedgas cylinders to determine the contents of cylinder based on the color of the cylinder. The 
+program will print out a menu colors to be entered. The user should be instructed to 
+enter the first letter of the color of tank. Upon reading the letter corresponding to the 
+color of the tank, the program will print a message, which states the content of the 
+tank. The program should accept the letter in either upper or lower case. Cylinder 
+colors associated contents are as follows.
+
+ 	Orange ammonia
+	Brown Carbon monoxide
+	Yellow hydrogen
+	Green oxygen
+
+The program should be written using a switch case. Program should print a message prior to 
+ending such as ‘Glad to have the service’.
+
+If the user enters a color other than one of the four colors specified in the program, then print 
+only the ending message.
+
+b. Modify the same program using nested if-else or if-else-if ladder.

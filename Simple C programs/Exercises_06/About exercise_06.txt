@@ -1,0 +1,13 @@
+Exercise06
+
+Write a C program that reads the customer number and units of power consumed by the 
+customer. Then calculate and print the amount to be paid by the customer according to 
+following consumption units.
+Units Charge
+
+	-------------------------------------------------------------------------------
+	0-200 	Rs.0.50 per unit
+	201-400 Rs.100 plus Rs.0.65 per unit excess 200
+	401-600 Rs.230 plus Rs.0.80 per unit excess of 400.
+
+	Output Format: Customer Number:<customer number> Payment:<Amount to be paid>

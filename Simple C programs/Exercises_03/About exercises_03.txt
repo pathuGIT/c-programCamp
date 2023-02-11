@@ -1,0 +1,4 @@
+Exercise 03
+
+Write a C program to input character from the user to check whether it is a letter in 
+alphabet or not. If it is a letter then check whether a vowel or not.

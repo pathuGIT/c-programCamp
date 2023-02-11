@@ -1,0 +1,4 @@
+Exercise 09
+
+Write a C program to input the month number and output the number of dates per that 
+month using switch statement.

@@ -1,0 +1,11 @@
+Exercise 02
+
+a. Write a C program to find maximum between two numbers using if-else statements.
+
+	Example: Input first number: 4
+ 		Input second number: 23
+ 		Output: Maximum number is 23
+
+b. Modify the same program to find maximum among three numbers using nested ifelse.
+
+c. Modify the part (b) by using if-else-if ladder.

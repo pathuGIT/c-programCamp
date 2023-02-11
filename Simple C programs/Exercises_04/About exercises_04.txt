@@ -1,0 +1,14 @@
+Exercises04
+
+a. Write a C program to make a simple calculator using switch case. First you need to type 
+the first number then the operator, which can be arithmetic operators (+, -, /, *) and 
+finally second number. The program should calculate and print the answer according to 
+the arithmetic operator.
+
+	Example: 
+		Enter the first number: 6
+		Enter operator: +
+		Enter the second number: 3
+		Answer: 9
+
+b. Modify the same program using nested if-else or if-else-if ladder.

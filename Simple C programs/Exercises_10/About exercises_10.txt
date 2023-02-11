@@ -1,0 +1,21 @@
+Exercise 10
+
+ABC supercenter gives gifts to their customers in the festive season. Gifts are given only if 
+the total bill value of the customer is more than Rs.10 000. Customers entitled for the gifts 
+should first select a number from a raffle box. Gifts will be given according to the number 
+selected as shown below.
+
+	No	|Gift Item	|
+	-----------------------
+	1 	|Tea Set	|
+	2 	|Spoon Set	|
+	3 	|Non Stick Pan	|
+	4 	|Bowl		|
+
+Write a C program to enter the bill value of the customer. If the bill value is more than 
+Rs.10000, Display a message “Please select a number from the raffle box” and enter as 
+shown below.
+
+“Congratulations!! You have won a <gift item>”
+
+If an invalid number has entered, display an appropriate error message

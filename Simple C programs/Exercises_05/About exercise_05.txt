@@ -1,0 +1,12 @@
+Exercise 05
+
+Write a C program to input marks of five subjects ICT, SFT, ET, BST and ENG. Calculate 
+and display the percentage (average mark of five subjects) and grade according to 
+following criteria.
+
+Percentage >= 80% : Grade A
+Percentage >= 70% : Grade B
+Percentage >= 50% : Grade C
+Percentage >= 40% : Grade D
+Percentage >= 30% : Grade E
+Percentage < 30%  : Grade F

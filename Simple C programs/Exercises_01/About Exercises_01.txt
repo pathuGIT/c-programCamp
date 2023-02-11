@@ -1,0 +1,4 @@
+Exercise 01
+
+Write a C program which asks the user to enter age and height. If age is greater than 18
+and height is 5 feet or above. Print “candidate is selected”, otherwise “not selected”.
